@@ -13,8 +13,8 @@ If the user logs in and books an appointment, It reflects on the Dentists page. 
 
 Setup/Installation requirements
 
-Clone or download and unzip the repository from github, https://github.com/Marthatwesi/Thee-Pig-Dice-Game.git
-If you have git Use this command git clone https://github.com/Marthatwesi/Thee-Pig-Dice-Game.git to clone the project.
+Clone or download and unzip the repository from github, https://github.com/Marthatwesi/Dentist-booking-APP.git
+If you have git Use this command git clone https://github.com/Marthatwesi/Dentist-booking-APP.git to clone the project.
 Open index.html via your web browser.
 Known Bugs
 
