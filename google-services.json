@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "730463741975",
+    "firebase_url": "https://clinicdermacare-a2447-default-rtdb.firebaseio.com",
+    "project_id": "clinicdermacare-a2447",
+    "storage_bucket": "clinicdermacare-a2447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730463741975:android:147a6924a6faacdeea9452",
+        "android_client_info": {
+          "package_name": "com.example.clinicdermacare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730463741975-t1k32kqt53or6hjgq1ponmpaghti6jjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2HUBgNKOlyePG9kBaUqAFyF91IVbTBAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730463741975-t1k32kqt53or6hjgq1ponmpaghti6jjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730463741975:android:3248c2d97754fc17ea9452",
+        "android_client_info": {
+          "package_name": "com.example.dermacare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730463741975-t1k32kqt53or6hjgq1ponmpaghti6jjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2HUBgNKOlyePG9kBaUqAFyF91IVbTBAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730463741975-t1k32kqt53or6hjgq1ponmpaghti6jjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
